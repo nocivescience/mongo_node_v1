@@ -1,9 +1,2 @@
-# Node
 node_modules
-npm-debug.log
-
-# Docs
-docs
-
-# Environemnt variables
-.env
+npm-dbug.log
